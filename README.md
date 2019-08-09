@@ -6,5 +6,6 @@ This new class can make your cv looking very profesional.
 + Practical for rapid and beautiful (profesionaly) résumé
 + Highlight your skills with dots to see your experience in that area
 
-## How to use
-alskdgj alskd gaklsdjg laks dgkla sdklfj asdlkg aslkdjg alksdjg klasdjg 
+## How to use it
++ Add the file `cv.cls` to your local repository.
++ Call _cv_ class with `\documentclass{cv}`
