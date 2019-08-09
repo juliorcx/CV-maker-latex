@@ -7,6 +7,8 @@ This new class can make your cv looking very profesional.
 + Highlight your skills with dots to see your experience in that area
 
 ## How to use it
-+ Add the file `cv.cls` to your local repository.
++ Add the `cv.cls` file to your local repository.
 + Call _cv_ class with `\documentclass{cv}`
-+ 
++ Use `\resume{a}{b}` command to put your scoore in your skills. Replace _a_ and _b_ to numbers like this: _a/b_ = 6/10, so you have 6 over 10 points.
+
+![Scoore your skills](skills.png)
