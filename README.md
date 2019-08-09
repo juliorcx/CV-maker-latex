@@ -9,3 +9,4 @@ This new class can make your cv looking very profesional.
 ## How to use it
 + Add the file `cv.cls` to your local repository.
 + Call _cv_ class with `\documentclass{cv}`
++ 
