@@ -13,4 +13,4 @@ This new class can make your cv looking very profesional.
 
 ![Scoore your skills](skills.png)
 
-+ Use `\datedsection` and `\datedsubsection` to put your experience or University and the date.
++ Use `\datedsection{Your stuff}{date}` or `\datedsubsection{Your stuff}{date}` to put your experience or University and the date.
