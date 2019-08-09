@@ -12,3 +12,5 @@ This new class can make your cv looking very profesional.
 + Use `\resume{a}{b}` command to put your scoore in your skills. Replace _a_ and _b_ to numbers like this: _a/b_ = 6/10, so you have 6 over 10 points.
 
 ![Scoore your skills](skills.png)
+
++ Use `\datedsection` and `\datedsubsection` to put your experience or University and the date.
