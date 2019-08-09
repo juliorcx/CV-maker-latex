@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2019.6.8)  6 AUG 2019 09:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2019.6.8)  9 AUG 2019 14:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,7 +23,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-Document Class: cv 2019/08/03 My custom CV class
+Document Class: cv 2019/08/03 Modern CV class
 (/usr/share/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box26
@@ -665,48 +665,36 @@ Now handling font encoding U ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-))
-(/usr/share/texmf-dist/tex/latex/soul/soul.sty
-Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks31
-\SOUL@lasttoken=\toks32
-\SOUL@cmds=\toks33
-\SOUL@buffer=\toks34
-\SOUL@token=\toks35
-\SOUL@spaceskip=\skip45
-\SOUL@ttwidth=\dimen164
-\SOUL@uldp=\dimen165
-\SOUL@ulht=\dimen166
-) (./cv-es.aux)
+)) (./cv-es.aux)
 \openout1 = `cv-es.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
 
 ABD: EveryShipout initializing macros
 (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count110
-\scratchdimen=\dimen167
+\scratchdimen=\dimen164
 \scratchbox=\box38
 \nofMPsegments=\count111
 \nofMParguments=\count112
-\everyMPshowfont=\toks36
+\everyMPshowfont=\toks31
 \MPscratchCnt=\count113
-\MPscratchDim=\dimen168
+\MPscratchDim=\dimen165
 \MPnumerator=\count114
 \makeMPintoPDFobject=\count115
-\everyMPtoPDFconversion=\toks37
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -787,29 +775,29 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 11.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 11.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 11.
+(Font)              <6> on input line 10.
 
-Overfull \hbox (4.96292pt too wide) in paragraph at lines 28--29
+Overfull \hbox (4.96292pt too wide) in paragraph at lines 27--28
 [] []|\OT1/cmr/bx/n/10 Re-spon-s-able de pro-jecto ---[] \OT1/cmr/m/n/10 De-sar
 -rollo de t^^Sunel de viento trans^^Sonico para prue-bas de per-files aerodin^^
 Samicos
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <7> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 42.
+(Font)              <5> on input line 41.
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
@@ -838,11 +826,11 @@ Missing character: There is no ; in font nullfont!
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./cv-es.aux) ) 
 Here is how much of TeX's memory you used:
- 12629 strings out of 494854
- 246162 string characters out of 6176599
- 320531 words of memory out of 5000000
- 15701 multiletter control sequences out of 15000+600000
- 8217 words of font info for 29 fonts, out of 8000000 for 9000
+ 12460 strings out of 494854
+ 244095 string characters out of 6176599
+ 317085 words of memory out of 5000000
+ 15537 multiletter control sequences out of 15000+600000
+ 7904 words of font info for 28 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
  62i,9n,56p,420b,519s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share
@@ -850,7 +838,7 @@ Here is how much of TeX's memory you used:
 nts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmr7.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on cv-es.pdf (1 page, 71690 bytes).
+Output written on cv-es.pdf (1 page, 71376 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
